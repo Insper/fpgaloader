@@ -1,0 +1,6 @@
+dist/aarch64-macos/fpgaloader
+dist/x86_64-macos/fpgaloader
+dist/x86_64-windows/fpgaloader
+dist/x86_64-linux/fpgaloader
+.DS_Store
+.idea
